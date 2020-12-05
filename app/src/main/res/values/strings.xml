@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EveryDayThing</string>
+    <string name="title">A Sample Title</string>
+    <string name="desc">A Sample Description</string>
+    <string name="cont_desc">Submit Description</string>
+
+    <string name="add_habit">New</string>
+    <string name="apple">Eat an Apple</string>
+    <string name="apple_desc">Description of an Apple</string>
+    <string name="et_btn">Select Image</string>
+    <string name="img_desc">Desc Image</string>
+    <string name="img_save">Save</string>
+
+
+
+</resources>
